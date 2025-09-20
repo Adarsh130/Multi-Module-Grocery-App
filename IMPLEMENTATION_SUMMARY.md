@@ -150,7 +150,8 @@ mongod
 # 2. Run the application
 mvn spring-boot:run -pl grocery-api
 
-
+# 3. Test the API
+./test-api.sh
 ```
 
 ### **Access Points**
